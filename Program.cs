@@ -1,4 +1,6 @@
-﻿Console.Title = "Encryption";
+﻿using System.IO;
+
+Console.Title = "Encryption";
 
 Console.WriteLine("How to use this program:");
 Console.WriteLine("1| Place any .txt file you want encrypted inside the 'input' folder.");
@@ -29,5 +31,8 @@ while (true)
 
 bool TxtFileExists(string filename)
 {
-    throw new NotImplementedException();
+    string pathString = @"C:\csharp-encryption-inputoutput\input\";
+
+    if (File.Exists(pathString + filename + ".txt")) return true;
+    else return false;
 }
