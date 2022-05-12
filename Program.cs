@@ -1,5 +1,8 @@
 ﻿using System.IO;
 
+const string inputFolder = @"C:\csharp-encryption-inputoutput\input\";
+const string outputFolder = @"C:\csharp-encryption-inputoutput\output\";
+
 Console.Title = "Encryption";
 
 Console.WriteLine("How to use this program:");
@@ -23,7 +26,23 @@ while (true)
     Console.WriteLine("Sorry, that file doesn't exist or isn't a .txt file.\n");
 }
 
+// Read Input
+
+
 // Do encryption stuff
+
+
+// Write to output
+// TEST OUTPUT //
+string[] lines = { "First line", "Second line", "Third line" };
+
+StreamWriter outputFile = new StreamWriter(Path.Combine(outputFolder, "testfile.txt"));
+
+foreach (string line in lines) outputFile.WriteLine(line);
+
+outputFile.Close(); // Gotta close and dispose the stream thing
+outputFile.Dispose();
+
 
 // Tell user to look into the output folder for their encrypted .txt file
 
@@ -31,8 +50,6 @@ while (true)
 
 bool TxtFileExists(string filename)
 {
-    string pathString = @"C:\csharp-encryption-inputoutput\input\";
-
-    if (File.Exists(pathString + filename + ".txt")) return true;
+    if (File.Exists(inputFolder + filename + ".txt")) return true;
     else return false;
 }
