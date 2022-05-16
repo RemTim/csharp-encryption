@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption.csproj", "{950D2BB4-124B-4D5E-A424-68524BCEFDED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-encryption", "csharp-encryption.csproj", "{AE159C80-4547-47F3-8FEA-025043BC0ED9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{950D2BB4-124B-4D5E-A424-68524BCEFDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{950D2BB4-124B-4D5E-A424-68524BCEFDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{950D2BB4-124B-4D5E-A424-68524BCEFDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{950D2BB4-124B-4D5E-A424-68524BCEFDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE159C80-4547-47F3-8FEA-025043BC0ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE159C80-4547-47F3-8FEA-025043BC0ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE159C80-4547-47F3-8FEA-025043BC0ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE159C80-4547-47F3-8FEA-025043BC0ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {72957E9E-59A2-413A-9EA5-B73551706E5D}
+		SolutionGuid = {2E540D9D-7376-4716-A50E-B698C780502A}
 	EndGlobalSection
 EndGlobal
