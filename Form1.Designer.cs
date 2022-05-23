@@ -36,7 +36,7 @@
             this.buttonGetPrivateKey = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this._encryptOpenFileDialog = new System.Windows.Forms.OpenFileDialog();
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this._decryptOpenFileDialog = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // buttonEncryptFile
@@ -114,10 +114,9 @@
             this._encryptOpenFileDialog.FileName = "openFileDialog1";
             this._encryptOpenFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this._encryptOpenFileDialog_FileOk);
             // 
-            // openFileDialog1
+            // _decryptOpenFileDialog
             // 
-            this.openFileDialog1.FileName = "_decryptOpenFileDialog";
-            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
+            this._decryptOpenFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this._decryptOpenFileDialog_FileOk);
             // 
             // Form1
             // 
@@ -148,6 +147,6 @@
         private Button buttonGetPrivateKey;
         private Label label1;
         private OpenFileDialog _encryptOpenFileDialog;
-        private OpenFileDialog openFileDialog1;
+        private OpenFileDialog _decryptOpenFileDialog;
     }
 }

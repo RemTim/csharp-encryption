@@ -1,0 +1,17 @@
+G:\C# Opdrachten\csharp-encryption\bin\Debug\net6.0-windows\csharp-encryption.exe
+G:\C# Opdrachten\csharp-encryption\bin\Debug\net6.0-windows\csharp-encryption.deps.json
+G:\C# Opdrachten\csharp-encryption\bin\Debug\net6.0-windows\csharp-encryption.runtimeconfig.json
+G:\C# Opdrachten\csharp-encryption\bin\Debug\net6.0-windows\csharp-encryption.dll
+G:\C# Opdrachten\csharp-encryption\bin\Debug\net6.0-windows\csharp-encryption.pdb
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.csproj.AssemblyReference.cache
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp_encryption.Form1.resources
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.csproj.GenerateResource.cache
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.AssemblyInfoInputs.cache
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.AssemblyInfo.cs
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.csproj.CoreCompileInputs.cache
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.dll
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\refint\csharp-encryption.dll
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.pdb
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\csharp-encryption.genruntimeconfig.cache
+G:\C# Opdrachten\csharp-encryption\obj\Debug\net6.0-windows\ref\csharp-encryption.dll
